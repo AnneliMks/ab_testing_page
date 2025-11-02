@@ -30,7 +30,7 @@ La page ancienne (`old_page`) est préférable.
 ## Sources et Références  
 - Dataset Kaggle : [AB Testing — Zhang Luyuan](https://www.kaggle.com/datasets/zhangluyuan/ab-testing)  
 - Article Medium : [A/B Testing for Optimizing E‑Commerce Landing Pages — Edy Cakrasinaga](https://medium.com/@cakrasinaga/a-b-testing-for-optimizing-e-commerce-landing-pages-e045fa25bcf9)  
-- Profil LinkedIn : [Fernanda Tchouacheu](https://www.linkedin.com/in/fernanda-tchouacheu/)
+- Profil LinkedIn : un post de [Fernanda Tchouacheu](https://www.linkedin.com/in/fernanda-tchouacheu/)
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ The old page (`old_page`) remains preferable.
 ## Sources and References  
 - Kaggle Dataset: [AB Testing — Zhang Luyuan](https://www.kaggle.com/datasets/zhangluyuan/ab-testing)  
 - Medium Article: [A/B Testing for Optimizing E‑Commerce Landing Pages — Edy Cakrasinaga](https://medium.com/@cakrasinaga/a-b-testing-for-optimizing-e-commerce-landing-pages-e045fa25bcf9)  
-- LinkedIn Profile: [Fernanda Tchouacheu](https://www.linkedin.com/in/fernanda-tchouacheu/)
+- LinkedIn Profile: a post from [Fernanda Tchouacheu](https://www.linkedin.com/in/fernanda-tchouacheu/)
